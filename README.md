@@ -20,13 +20,14 @@ SQLite; без внешних сервисов по умолчанию.
 
 | Источник | Статус | Причина |
 |---|---|---|
-| comtrade-preview | **LIVE_VERIFIED** | public/v1/preview без ключа; 1 период/запрос, ~1 запрос/мин; живой прогон 6/6 success |
-| comtrade data/v1 | KEY_REQUIRED | ключ после регистрации comtrade - v1 (полный канал: мульти-период, aggregateBy) |
+| comtrade data/v1 | **LIVE_VERIFIED** | ключ в .env; мульти-периодные запросы; сверка с preview 6/6 без расхождений |
+| comtrade-preview | **LIVE_VERIFIED** | public/v1/preview без ключа; 1 период/запрос, ~1 запрос/мин |
 | importyeti | **BLOCKED** (technical) | robots: Allow /, но /search?q и /api/* запрещены; главная и профиль → HTTP 403 Cloudflare (2026-09-17); обход не закладываем |
 | csvimport | **LIVE_VERIFIED** | локальный CSV-импорт без сети |
 
 Живые данные (HS 8422, импорт из мира): DEU $2.07B (+0.5% YoY),
-GBR $1.38B (+2.6%), USA $6.07B (+3.3%) — 2024 против 2023.
+GBR $1.38B (+2.6%), USA $6.07B (+3.3%) — 2024 против 2023. Оба канала
+Comtrade дали идентичные значения (`scripts/compare_channels.py`).
 
 ## Команды
 
