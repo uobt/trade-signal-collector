@@ -1,0 +1,12 @@
+{
+  "data": [
+    {"period": "2023", "reporterCode": "276", "partnerCode": "0", "partner2Code": "0", "flowCode": "M", "cmdCode": "8422", "customsCode": "C00", "motCode": 0, "primaryValue": 1450000000.0, "qty": 98000.0, "qtyUnitAbbr": "kg"},
+    {"period": "2023", "reporterCode": "276", "partnerCode": "0", "partner2Code": "156", "flowCode": "M", "cmdCode": "8422", "customsCode": "C01", "motCode": 3200, "primaryValue": 610000000.0, "qty": 41000.0, "qtyUnitAbbr": "kg"},
+    {"period": "2024", "reporterCode": "276", "partnerCode": "0", "partner2Code": "0", "flowCode": "M", "cmdCode": "8422", "customsCode": "C00", "motCode": 0, "primaryValue": 1780000000.0, "qty": 112000.0, "qtyUnitAbbr": "kg"},
+    {"period": "2024", "reporterCode": "276", "partnerCode": "0", "partner2Code": "0", "flowCode": "M", "cmdCode": "8422", "customsCode": "C00", "motCode": 3200, "primaryValue": 700000000.0},
+    {"period": "2023", "reporterCode": "276", "partnerCode": "156", "partner2Code": "0", "flowCode": "M", "cmdCode": "8422", "customsCode": "C00", "motCode": 0, "primaryValue": 610000000.0, "qty": 41000.0, "qtyUnitAbbr": "kg"},
+    {"period": "2024", "reporterCode": "276", "partnerCode": "156", "partner2Code": "0", "flowCode": "M", "cmdCode": "8422", "customsCode": "C00", "motCode": 0, "primaryValue": 790000000.0, "qty": 52000.0, "qtyUnitAbbr": "kg"},
+    {"period": "2024", "reporterCode": "276", "partnerCode": "156", "partner2Code": "0", "flowCode": "M", "cmdCode": "8422", "customsCode": "C01", "motCode": 0, "primaryValue": 710000000.0},
+    {"period": "2024", "reporterCode": "276", "partnerCode": "156", "partner2Code": "0", "flowCode": "M", "cmdCode": "8422", "customsCode": "C04", "motCode": 0, "primaryValue": 80000000.0}
+  ]
+}

@@ -1,0 +1,16 @@
+[project]
+name = "trade-signal-collector"
+version = "0.1.0"
+description = "Импортно-экспортные сигналы для международного B2B-аутрича: официальная статистика + подключаемый контур компаний"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

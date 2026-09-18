@@ -1,0 +1,9 @@
+source,reporter_iso,partner_iso,flow,hs_code,period,value_usd,qty,qty_unit
+demo-import,GBR,0,M,8422,2023,1200000000,87000,kg
+demo-import,GBR,0,M,8422,2024,1310000000,91000,kg
+demo-import,GBR,156,M,8422,2023,450000000,30000,kg
+demo-import,GBR,156,M,8422,2024,510000000,34000,kg
+demo-import,USA,0,M,8422,2023,5900000000,410000,kg
+demo-import,USA,0,M,8422,2024,6400000000,445000,kg
+demo-import,USA,156,M,8422,2023,2700000000,180000,kg
+demo-import,USA,156,M,8422,2024,3100000000,205000,kg

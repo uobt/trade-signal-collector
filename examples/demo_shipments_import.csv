@@ -1,0 +1,7 @@
+source,company_key,company_name,supplier_name,supplier_country,arrival_date,port,hs_codes,weight_kg,quantity
+demo-import,imp-001,Nordwind Verpackungen GmbH,Shenzhen Bright Packaging Co Ltd,CHN,2024-11-03,Hamburg,842230,18400,12
+demo-import,imp-001,Nordwind Verpackungen GmbH,Hangzhou Fillline Machinery,CHN,2025-01-18,Hamburg,842230,9600,6
+demo-import,imp-001,Nordwind Verpackungen GmbH,Guerreto SpA,ITA,2025-02-27,Hamburg,842290,4300,3
+demo-import,imp-002,Harborline Packaging Ltd,Kaishan Line Ltd,CHN,2024-12-09,Felixstowe,842290,7100,5
+demo-import,imp-002,Harborline Packaging Ltd,Pakline BV,NLD,2025-03-14,Felixstowe,842230,2200,2
+demo-import,imp-003,Expeditors International of Washington,Kingpack Industrial,CHN,2025-01-22,Los Angeles,842230,31000,20

@@ -1,0 +1,4 @@
+source,source_key,name,country,website,identity_confidence
+demo-import,imp-001,Nordwind Verpackungen GmbH,DEU,https://www.nordwind-verpackungen.example,high
+demo-import,imp-002,Harborline Packaging Ltd,GBR,https://www.harborline.example,medium
+demo-import,imp-003,Expeditors International of Washington,USA,,low
